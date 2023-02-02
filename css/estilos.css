@@ -4,6 +4,9 @@ Hoja de estilos css
 
 body{
     background-color: aqua;
+    font-weight: bold;
+    color: darkgoldenrod;
+    
 }
 h1{
     text-align: center;
